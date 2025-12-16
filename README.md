@@ -11,11 +11,12 @@ All analyses and experiments are conducted in **`data_import.ipynb`**.
 
 ## Dataset: PBMC3k
 
-**PBMC3k** is a canonical benchmark dataset for single-cell RNA sequencing.
+**PBMC3k** is a canonical benchmark dataset for single-cell RNA sequencing. 
 
 - **Source**: 10x Genomics
 - **Cells**: ~3,000 peripheral blood mononuclear cells (PBMCs)
 - **Technology**: UMI-based scRNA-seq
+
 The dataset contains 2700 cells and 32738 genes, stored in a Scanpy AnnData object.
 
 PBMCs include several major immune cell populations:
