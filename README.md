@@ -5,7 +5,7 @@ We train a denoising diffusion probabilistic model on single-cell RNA-seq data (
 This repository provides an exploratory analysis of the **PBMC3k** single-cell RNA-seq dataset using **Scanpy (v1.11.5)**.  
 The goal is to understand the structure of scRNA-seq data—from raw UMI counts to low-dimensional embeddings and clustering—using a transparent and standard Scanpy workflow.
 
-All analyses and experiments are conducted in **`data_import.ipynb`**.
+Some analyses based on this dataset are conducted in **`data_import.ipynb`**.
 
 ---
 
